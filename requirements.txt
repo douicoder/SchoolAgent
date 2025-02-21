@@ -1,0 +1,12 @@
+streamlit
+python-docx
+pandas
+pytesseract
+faiss-cpu
+numpy
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+pdfplumber
+Pillow
